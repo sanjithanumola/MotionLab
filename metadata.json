@@ -1,0 +1,6 @@
+{
+  "name": "MotionLab — Generative Motion & Particle Art Studio",
+  "description": "Interactive visual playground and generative motion design tool featuring 12 particle, fluid, gravity, wave, neural, and 3D simulation modes.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
